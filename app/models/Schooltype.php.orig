@@ -1,0 +1,10 @@
+<?php
+
+class Schooltype extends tableDataObject{
+
+   const TABLENAME = 'schooltype';
+
+}
+
+
+ ?>
