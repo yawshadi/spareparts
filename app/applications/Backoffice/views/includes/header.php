@@ -15,32 +15,32 @@ foreach($data as $name => $value){
 <!-- Favicons -->
 <link rel="shortcut icon" href="img/favicon.ico">
     <!-- Fontawesome css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/font-awesome.min.css">
     <!-- Ionicons css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/ionicons.min.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/ionicons.min.css">
     <!-- Nice select css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/nice-select.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/nice-select.css">
     <!-- Jquery fancybox css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/jquery.fancybox.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/jquery.fancybox.css">
     <!-- Jquery ui price slider css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/jquery-ui.min.css">
     <!-- Meanmenu css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/meanmenu.min.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/meanmenu.min.css">
     <!-- Nivo slider css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/nivo-slider.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/nivo-slider.css">
     <!-- Owl carousel css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/owl.carousel.min.css">
     <!-- Bootstrap css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/bootstrap.min.css">
     <!-- Custom css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/default.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/default.css">
     <!-- Main css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/style.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/style.css">
     <!-- Responsive css -->
-    <link rel="stylesheet" href="<?php echo URLROOT ?>/css/responsive.css">
+    <link rel="stylesheet" href="<?php echo URLROOT ?>/front/css/responsive.css">
 
     <!-- Modernizer js -->
-    <script src="<?php echo URLROOT ?>/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="<?php echo URLROOT ?>/front/js/vendor/modernizr-3.5.0.min.js"></script>
    
     <!-- /custom JS files to be developed and maintained -->
 
