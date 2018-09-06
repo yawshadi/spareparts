@@ -40,11 +40,11 @@ require("includes/header.php");
                             <!-- Header Top Left Start -->
                             <div class="header-top-left">
                                 <ul>
-                                    <li><span>Language:</span><a href="#"><img src="<?php echo URLROOT ?>/img/header/1.jpg" alt="language-selector">English<i class="ion-arrow-down-b"></i></a>
+                                    <li><span>Language:</span><a href="#"><img src="<?php echo URLROOT ?>/front/img/header/1.jpg" alt="language-selector">English<i class="ion-arrow-down-b"></i></a>
                                         <!-- Dropdown Start -->
                                         <ul class="ht-dropdown">
-                                            <li><a href="#"><img src="<?php echo URLROOT ?>/img/header/1.jpg" alt="language-selector">English</a></li>
-                                            <li><a href="#"><img src="<?php echo URLROOT ?>/img/header/2.jpg" alt="language-selector">Francis</a></li>
+                                            <li><a href="#"><img src="<?php echo URLROOT ?>/front/img/header/1.jpg" alt="language-selector">English</a></li>
+                                            <li><a href="#"><img src="<?php echo URLROOT ?>/front/img/header/2.jpg" alt="language-selector">Francis</a></li>
                                         </ul>
                                         <!-- Dropdown End -->
                                     </li>
@@ -80,7 +80,7 @@ require("includes/header.php");
                     <div class="row align-items-center">
                         <div class="col-lg-3 col-md-12">
                             <div class="logo mb-all-30">
-                                <a href="index.html"><img src="<?php echo URLROOT ?>/img/logo/logo.png" alt="logo-image"></a>
+                                <a href="index.html"><img src="<?php echo URLROOT ?>/front/img/logo/logo.png" alt="logo-image"></a>
                             </div>
                         </div>
                         <!-- Categorie Search Box Start Here -->
@@ -135,7 +135,7 @@ require("includes/header.php");
                                                 <!-- Cart Box Start -->
                                                 <div class="single-cart-box">
                                                     <div class="cart-img">
-                                                        <a href="#"><img src="<?php echo URLROOT ?>/img/products/1.jpg" alt="cart-image"></a>
+                                                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/products/1.jpg" alt="cart-image"></a>
                                                         <span class="pro-quantity">1X</span>
                                                     </div>
                                                     <div class="cart-content">
@@ -150,7 +150,7 @@ require("includes/header.php");
                                                 <!-- Cart Box Start -->
                                                 <div class="single-cart-box">
                                                     <div class="cart-img">
-                                                        <a href="#"><img src="<?php echo URLROOT ?>/img/products/2.jpg" alt="cart-image"></a>
+                                                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/products/2.jpg" alt="cart-image"></a>
                                                         <span class="pro-quantity">1X</span>
                                                     </div>
                                                     <div class="cart-content">
@@ -368,7 +368,7 @@ require("includes/header.php");
                             <span class="categorie-title">all Categories <i class="fa fa-angle-down"></i></span>
                             <nav>
                                 <ul class="vertical-menu-list">
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/1.png" alt="menu-icon"></span>Electronics<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/1.png" alt="menu-icon"></span>Electronics<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu first-megamenu">
                                             <!-- Single Column Start -->
@@ -409,13 +409,13 @@ require("includes/header.php");
                                             <!-- Single Column End -->
                                             <!-- Single Megamenu Image Start -->
                                             <li class="megamenu-img">
-                                                <a href="shop.html"><img src="<?php echo URLROOT ?>/img/vertical-menu/12.jpg" alt="menu-image"></a>
+                                                <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/vertical-menu/12.jpg" alt="menu-image"></a>
                                             </li>
                                             <!-- Single Megamenu Image End -->
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/2.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/2.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
                                             <!-- Single Column Start -->
@@ -443,7 +443,7 @@ require("includes/header.php");
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/3.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/3.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
                                             <!-- Single Column Start -->
@@ -471,7 +471,7 @@ require("includes/header.php");
                                         </ul>
                                         <!-- Vertical Mega-Menu End --> 
                                     </li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
                                     </a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
@@ -500,7 +500,7 @@ require("includes/header.php");
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/5.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/5.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
                                             <!-- Single Column Start -->
@@ -528,19 +528,19 @@ require("includes/header.php");
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                     <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/6.png" alt="menu-icon"></span>Beauty</a>
+                                     <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/6.png" alt="menu-icon"></span>Beauty</a>
                                     </li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/7.png" alt="menu-icon"></span>Sport & tourism</a>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/7.png" alt="menu-icon"></span>Sport & tourism</a>
                                     </li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
-                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
+                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
                                     <!-- More Categoies Start -->
                                     <li id="cate-toggle" class="category-menu v-cat-menu">
                                         <ul>
                                             <li class="has-sub"><a href="#">More Categories</a>
                                                 <ul class="category-sub">
-                                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
+                                                    <li><a href="shop.html"><span><img src="<?php echo URLROOT ?>/front/img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -556,8 +556,8 @@ require("includes/header.php");
                         <div class="slider-wrapper theme-default">
                             <!-- Slider Background  Image Start-->
                             <div id="slider" class="nivoSlider">
-                                <a href="shop.html"><img src="<?php echo URLROOT ?>/img/slider/1.jpg" data-thumb="img/slider/1.jpg" alt="" title="#htmlcaption" /></a>
-                                <a href="shop.html"><img src="<?php echo URLROOT ?>/img/slider/2.jpg" data-thumb="img/slider/2.jpg" alt="" title="#htmlcaption2" /></a>
+                                <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/slider/1.jpg" data-thumb="img/slider/1.jpg" alt="" title="#htmlcaption" /></a>
+                                <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/slider/2.jpg" data-thumb="img/slider/2.jpg" alt="" title="#htmlcaption2" /></a>
                             </div>
                             <!-- Slider Background  Image Start-->
                             <div class="slider-progress"></div>
@@ -568,13 +568,13 @@ require("includes/header.php");
                     <div class="col-xl-3 col-lg-12">
                         <div class="right-sider-banner">
                             <div class="single-banner">
-                                <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/1.jpg" alt=""></a>
+                                <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/1.jpg" alt=""></a>
                             </div>
                              <div class="single-banner">
-                                <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/2.jpg" alt=""></a>
+                                <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/2.jpg" alt=""></a>
                             </div>
                              <div class="single-banner">
-                                <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/3.jpg" alt=""></a>
+                                <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/3.jpg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -591,25 +591,25 @@ require("includes/header.php");
                 <!-- Brand Banner Start -->
                 <div class="brand-banner owl-carousel">
                     <div class="single-brand">
-                        <a href="#"><img class="img" src="<?php echo URLROOT ?>/img/brand/1.jpg" alt="brand-image"></a>
+                        <a href="#"><img class="img" src="<?php echo URLROOT ?>/front/img/brand/1.jpg" alt="brand-image"></a>
                     </div>
                     <div class="single-brand">
-                        <a href="#"><img src="<?php echo URLROOT ?>/img/brand/2.jpg" alt="brand-image"></a>
+                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/brand/2.jpg" alt="brand-image"></a>
                     </div>
                     <div class="single-brand">
-                        <a href="#"><img src="<?php echo URLROOT ?>/img/brand/3.jpg" alt="brand-image"></a>
+                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/brand/3.jpg" alt="brand-image"></a>
                     </div>
                     <div class="single-brand">
-                        <a href="#"><img src="<?php echo URLROOT ?>/img/brand/4.jpg" alt="brand-image"></a>
+                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/brand/4.jpg" alt="brand-image"></a>
                     </div>
                     <div class="single-brand">
-                        <a href="#"><img src="<?php echo URLROOT ?>/img/brand/5.jpg" alt="brand-image"></a>
+                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/brand/5.jpg" alt="brand-image"></a>
                     </div>
                     <div class="single-brand">
-                        <a href="#"><img src="<?php echo URLROOT ?>/img/brand/6.jpg" alt="brand-image"></a>
+                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/brand/6.jpg" alt="brand-image"></a>
                     </div>
                     <div class="single-brand">
-                        <a href="#"><img src="<?php echo URLROOT ?>/img/brand/7.jpg" alt="brand-image"></a>
+                        <a href="#"><img src="<?php echo URLROOT ?>/front/img/brand/7.jpg" alt="brand-image"></a>
                     </div>
                 </div>
                 <!-- Brand Banner End -->
@@ -629,7 +629,7 @@ require("includes/header.php");
                     <!-- Hot Deal Left Banner Start -->
                     <div class="col-xl-3 col-lg-4 col-md-5">
                         <div class="single-banner">
-                            <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/4.jpg" alt=""></a>
+                            <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/4.jpg" alt=""></a>
                         </div>
                     </div>
                     <!-- Hot Deal Left Banner End -->
@@ -643,8 +643,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/1.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/1.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                         </a>
                                         <div class="countdown" data-countdown="2020/03/01"></div>
                                     </div>
@@ -682,8 +682,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/17.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/24.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/17.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/24.jpg" alt="single-product">
                                         </a>
                                         <div class="countdown" data-countdown="2020/01/01"></div>
                                     </div>
@@ -719,8 +719,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/16.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/33.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/16.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/33.jpg" alt="single-product">
                                         </a>
                                         <div class="countdown" data-countdown="2020/05/01"></div>
                                     </div>
@@ -758,8 +758,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/19.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/18.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/19.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/18.jpg" alt="single-product">
                                         </a>
                                         <div class="countdown" data-countdown="2020/05/01"></div>
                                     </div>
@@ -796,8 +796,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                         </a>
                                         <div class="countdown" data-countdown="2019/05/01"></div>
                                     </div>
@@ -845,7 +845,7 @@ require("includes/header.php");
         <div class="big-banner pb-45">
             <div class="container">
                 <div class="single-banner">
-                    <img src="<?php echo URLROOT ?>/img/banner/5.jpg" alt="">
+                    <img src="<?php echo URLROOT ?>/front/img/banner/5.jpg" alt="">
                 </div>
             </div>
             <!-- Container End -->
@@ -863,7 +863,7 @@ require("includes/header.php");
                         </div>
                         <!-- Post Title End -->
                         <div class="single-banner">
-                            <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/6.jpg" alt=""></a>
+                            <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/6.jpg" alt=""></a>
                         </div>
                     </div>
                     <!-- Electronics Banner End -->
@@ -893,8 +893,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -928,8 +928,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -967,8 +967,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/13.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                     <span class="sticker-sale">-8%</span>
@@ -1003,8 +1003,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/23.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/23.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1042,8 +1042,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1077,8 +1077,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1123,8 +1123,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1158,8 +1158,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/10.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/10.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1197,8 +1197,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1232,8 +1232,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1271,8 +1271,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/21.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/21.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1306,8 +1306,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1352,8 +1352,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/18.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/19.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/18.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/19.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1387,8 +1387,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/32.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/33.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/32.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/33.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1426,8 +1426,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/5.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/6.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/5.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/6.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1461,8 +1461,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1500,8 +1500,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/26.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/25.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/26.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/25.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1535,8 +1535,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1594,7 +1594,7 @@ require("includes/header.php");
                         </div>
                         <!-- Post Title End -->
                         <div class="single-banner">
-                            <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/7.jpg" alt=""></a>
+                            <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/7.jpg" alt=""></a>
                         </div>
                     </div>
                     <!-- Electronics Banner End -->
@@ -1621,8 +1621,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1656,8 +1656,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1695,8 +1695,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/13.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                     <span class="sticker-sale">-8%</span>
@@ -1731,8 +1731,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/23.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/23.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1770,8 +1770,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1805,8 +1805,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1851,8 +1851,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1886,8 +1886,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/10.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/10.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1925,8 +1925,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1960,8 +1960,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -1999,8 +1999,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/21.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/21.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2034,8 +2034,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2093,7 +2093,7 @@ require("includes/header.php");
                         </div>
                         <!-- Post Title End -->
                         <div class="single-banner">
-                            <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/10.jpg" alt=""></a>
+                            <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/10.jpg" alt=""></a>
                         </div>
                     </div>
                     <!-- Electronics Banner End -->
@@ -2120,8 +2120,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2155,8 +2155,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2194,8 +2194,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/13.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                     <span class="sticker-sale">-8%</span>
@@ -2230,8 +2230,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/23.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/23.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2269,8 +2269,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2304,8 +2304,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2350,8 +2350,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2385,8 +2385,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/10.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/10.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2424,8 +2424,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2459,8 +2459,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2498,8 +2498,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/21.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/21.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2533,8 +2533,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2592,7 +2592,7 @@ require("includes/header.php");
                         </div>
                         <!-- Post Title End -->
                         <div class="single-banner">
-                            <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/8.jpg" alt=""></a>
+                            <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/8.jpg" alt=""></a>
                         </div>
                     </div>
                     <!-- Electronics Banner End -->
@@ -2625,8 +2625,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2660,8 +2660,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2699,8 +2699,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/13.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                     <span class="sticker-sale">-8%</span>
@@ -2735,8 +2735,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/23.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/23.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2774,8 +2774,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2809,8 +2809,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2855,8 +2855,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2890,8 +2890,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/10.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/10.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2929,8 +2929,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -2964,8 +2964,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3003,8 +3003,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/21.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/21.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3038,8 +3038,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3084,8 +3084,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/18.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/19.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/18.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/19.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3119,8 +3119,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/32.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/33.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/32.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/33.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3158,8 +3158,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/5.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/6.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/5.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/6.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3193,8 +3193,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3232,8 +3232,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/26.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/25.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/26.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/25.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3267,8 +3267,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3313,8 +3313,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3348,8 +3348,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3387,8 +3387,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/13.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                     <span class="sticker-sale">-8%</span>
@@ -3423,8 +3423,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/23.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/23.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3462,8 +3462,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3497,8 +3497,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3556,7 +3556,7 @@ require("includes/header.php");
                         </div>
                         <!-- Post Title End -->
                         <div class="single-banner">
-                            <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/9.jpg" alt=""></a>
+                            <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/9.jpg" alt=""></a>
                         </div>
                     </div>
                     <!-- Electronics Banner End -->
@@ -3583,8 +3583,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3618,8 +3618,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3657,8 +3657,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/13.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                     <span class="sticker-sale">-8%</span>
@@ -3693,8 +3693,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/23.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/23.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3732,8 +3732,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3767,8 +3767,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3813,8 +3813,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/30.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/29.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/30.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/29.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3848,8 +3848,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/10.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/10.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3887,8 +3887,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3922,8 +3922,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/11.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/12.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/11.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/12.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3961,8 +3961,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/21.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/22.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/21.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/22.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -3996,8 +3996,8 @@ require("includes/header.php");
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
                                                     <a href="product.html">
-                                                        <img class="primary-img" src="<?php echo URLROOT ?>/img/products/7.jpg" alt="single-product">
-                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
+                                                        <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/7.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
                                                     </a>
                                                     <span class="sticker-new">new</span>
                                                 </div>
@@ -4058,7 +4058,7 @@ require("includes/header.php");
                                 </div>
                                 <!-- Post Title End -->
                                 <div class="single-banner">
-                                    <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/11.jpg" alt=""></a>
+                                    <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/11.jpg" alt=""></a>
                                 </div>
                             </div>
                             <!-- New Products Activation Start -->
@@ -4068,8 +4068,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/10.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/10.jpg" alt="single-product">
                                         </a>
                                     </div>
                                     <!-- Product Image End -->
@@ -4105,8 +4105,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/14.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/15.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/14.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="single-product">
                                         </a>
                                     </div>
                                     <!-- Product Image End -->
@@ -4142,8 +4142,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/4.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/6.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/4.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/6.jpg" alt="single-product">
                                         </a>
                                     </div>
                                     <!-- Product Image End -->
@@ -4191,7 +4191,7 @@ require("includes/header.php");
                                 </div>
                                 <!-- Post Title End -->
                                 <div class="single-banner">
-                                    <a href="shop.html"><img src="<?php echo URLROOT ?>/img/banner/12.jpg" alt=""></a>
+                                    <a href="shop.html"><img src="<?php echo URLROOT ?>/front/img/banner/12.jpg" alt=""></a>
                                 </div>
                             </div>
                             <!-- Featured Products Activation Start -->
@@ -4201,8 +4201,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/34.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/32.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/34.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/32.jpg" alt="single-product">
                                         </a>
                                     </div>
                                     <!-- Product Image End -->
@@ -4238,8 +4238,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/8.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/9.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/8.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/9.jpg" alt="single-product">
                                         </a>
                                     </div>
                                     <!-- Product Image End -->
@@ -4275,8 +4275,8 @@ require("includes/header.php");
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
                                         <a href="product.html">
-                                            <img class="primary-img" src="<?php echo URLROOT ?>/img/products/33.jpg" alt="single-product">
-                                            <img class="secondary-img" src="<?php echo URLROOT ?>/img/products/16.jpg" alt="single-product">
+                                            <img class="primary-img" src="<?php echo URLROOT ?>/front/img/products/33.jpg" alt="single-product">
+                                            <img class="secondary-img" src="<?php echo URLROOT ?>/front/img/products/16.jpg" alt="single-product">
                                         </a>
                                     </div>
                                     <!-- Product Image End -->
@@ -4440,7 +4440,7 @@ require("includes/header.php");
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                             <div class="single-footer">
                                 <div class="logo-footer">
-                                    <a href="index.html"><img src="<?php echo URLROOT ?>/img/logo/logo2.png" alt="footer-logo"></a>
+                                    <a href="index.html"><img src="<?php echo URLROOT ?>/front/img/logo/logo2.png" alt="footer-logo"></a>
                                 </div>
                                 <div class="footer-content">
                                     <p>We are a team of designers and developers that create high quality HTML, Magento, Prestashop, Opencart.</p>
@@ -4469,7 +4469,7 @@ require("includes/header.php");
                     <div class="footer-middle-content ptb-45">
                         <div class="tag-content"><a href="#">Online Shopping</a> <a href="#">Promotions</a> <a href="#">My Orders</a> <a href="#">Help</a> <a href="#">Customer Service</a> <a href="#">Support</a> <a href="#">Most Populars</a> <a href="#">New Arrivals</a> <a href="#">Special Products</a> <a href="#">Manufacturers</a> <a href="#">Our Stores</a> <a href="#">Shipping</a> <a href="#">Payments</a> <a href="#">Warantee</a> <a href="#">Refunds</a> <a href="#">Checkout</a> <a href="#">Discount</a> <a href="#">Terms & Conditions</a> <a href="#">Policy</a> <a href="#">Shipping</a> <a href="#">Payments</a> <a href="#">Returns</a> <a href="#">Refunds</a></div>
                         <div class="payment mt-25">
-                            <a href="#"><img class="img" src="<?php echo URLROOT ?>/img/payment/1.png" alt="payment-image"></a>
+                            <a href="#"><img class="img" src="<?php echo URLROOT ?>/front/img/payment/1.png" alt="payment-image"></a>
                         </div>
                     </div>
                 </div>
@@ -4520,30 +4520,30 @@ require("includes/header.php");
                                         <!-- Thumbnail Large Image start -->
                                         <div class="tab-content">
                                             <div id="thumb1" class="tab-pane fade show active">
-                                                <a data-fancybox="images" href="img/products/35.jpg"><img src="<?php echo URLROOT ?>/img/products/35.jpg" alt="product-view"></a>
+                                                <a data-fancybox="images" href="img/products/35.jpg"><img src="<?php echo URLROOT ?>/front/img/products/35.jpg" alt="product-view"></a>
                                             </div>
                                             <div id="thumb2" class="tab-pane fade">
-                                                <a data-fancybox="images" href="img/products/13.jpg"><img src="<?php echo URLROOT ?>/img/products/13.jpg" alt="product-view"></a>
+                                                <a data-fancybox="images" href="img/products/13.jpg"><img src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="product-view"></a>
                                             </div>
                                             <div id="thumb3" class="tab-pane fade">
-                                                <a data-fancybox="images" href="img/products/15.jpg"><img src="<?php echo URLROOT ?>/img/products/15.jpg" alt="product-view"></a>
+                                                <a data-fancybox="images" href="img/products/15.jpg"><img src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="product-view"></a>
                                             </div>
                                             <div id="thumb4" class="tab-pane fade">
-                                                <a data-fancybox="images" href="img/products/4.jpg"><img src="<?php echo URLROOT ?>/img/products/4.jpg" alt="product-view"></a>
+                                                <a data-fancybox="images" href="img/products/4.jpg"><img src="<?php echo URLROOT ?>/front/img/products/4.jpg" alt="product-view"></a>
                                             </div>
                                             <div id="thumb5" class="tab-pane fade">
-                                                <a data-fancybox="images" href="img/products/5.jpg"><img src="<?php echo URLROOT ?>/img/products/5.jpg" alt="product-view"></a>
+                                                <a data-fancybox="images" href="img/products/5.jpg"><img src="<?php echo URLROOT ?>/front/img/products/5.jpg" alt="product-view"></a>
                                             </div>
                                         </div>
                                         <!-- Thumbnail Large Image End -->
                                         <!-- Thumbnail Image End -->
                                         <div class="product-thumbnail">
                                             <div class="thumb-menu owl-carousel nav tabs-area" role="tablist">
-                                                <a class="active" data-toggle="tab" href="#thumb1"><img src="<?php echo URLROOT ?>/img/products/35.jpg" alt="product-thumbnail"></a>
-                                                <a data-toggle="tab" href="#thumb2"><img src="<?php echo URLROOT ?>/img/products/13.jpg" alt="product-thumbnail"></a>
-                                                <a data-toggle="tab" href="#thumb3"><img src="<?php echo URLROOT ?>/img/products/15.jpg" alt="product-thumbnail"></a>
-                                                <a data-toggle="tab" href="#thumb4"><img src="<?php echo URLROOT ?>/img/products/4.jpg" alt="product-thumbnail"></a>
-                                                <a data-toggle="tab" href="#thumb5"><img src="<?php echo URLROOT ?>/img/products/5.jpg" alt="product-thumbnail"></a>
+                                                <a class="active" data-toggle="tab" href="#thumb1"><img src="<?php echo URLROOT ?>/front/img/products/35.jpg" alt="product-thumbnail"></a>
+                                                <a data-toggle="tab" href="#thumb2"><img src="<?php echo URLROOT ?>/front/img/products/13.jpg" alt="product-thumbnail"></a>
+                                                <a data-toggle="tab" href="#thumb3"><img src="<?php echo URLROOT ?>/front/img/products/15.jpg" alt="product-thumbnail"></a>
+                                                <a data-toggle="tab" href="#thumb4"><img src="<?php echo URLROOT ?>/front/img/products/4.jpg" alt="product-thumbnail"></a>
+                                                <a data-toggle="tab" href="#thumb5"><img src="<?php echo URLROOT ?>/front/img/products/5.jpg" alt="product-thumbnail"></a>
                                             </div>
                                         </div>
                                         <!-- Thumbnail image end -->

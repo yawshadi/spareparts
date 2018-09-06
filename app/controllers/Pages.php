@@ -10,7 +10,7 @@ class Pages extends Controller {
 
 
     public function index(){
-        header("Location: /spareparts/pages/home");
+        header("Location: /front/pages/home");
     }
 
     public function login( $message=null ){
