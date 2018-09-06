@@ -97,7 +97,8 @@ class Core{
             $this->currentController = ucwords($url[0]);
             unset($url[0]);
         } else {
-            $this->notfound("Couldn't find a matching controller.");
+            //$this->notfound("Couldn't find a matching controller.");
+            header("Location: /front/pages/home");//shadrach changes
         }
 
         require_once $controllerPath . $this->currentController.'.php';
@@ -117,7 +118,8 @@ class Core{
                 // Unset 1 index
                 unset($url[1]);
             } else {
-                $this->notfound("Couldn't find a matching method in a controller.");
+               // $this->notfound("Couldn't find a matching method in a controller.");
+                header("Location: /front/pages/home");//shadrach changes
             }
         }
 

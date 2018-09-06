@@ -12,7 +12,7 @@ class Pages extends Controller {
     public function index(){
         header("Location: /front/pages/home");
     }
-
+   
     public function login( $message=null ){
         $this->view('pages/login');
     }

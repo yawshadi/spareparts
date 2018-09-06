@@ -36,6 +36,10 @@ class Pages extends Controller {
         //new Guard($this->loggedInUser,$roles);
     }
 
+    public function index(){
+       
+        $this->view('pages/home');
+    }
     public function home(){
        
         $this->view('pages/home');
