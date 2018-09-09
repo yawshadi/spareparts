@@ -46,7 +46,7 @@ class Pages extends Controller {
     }
 
     public function shop(){
-
+        
         $this->view('pages/shop');
     }
     
