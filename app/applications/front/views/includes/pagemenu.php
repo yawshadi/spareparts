@@ -29,9 +29,9 @@
                             <!-- Header Top Right Start -->
                             <div class="header-top-right">
                                 <ul>
-                                    <li><a href="account.html">My Account</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="login.html">Sign in</a></li>
+                                    <li><a href="<?php echo URLROOT.'/front/pages/account' ?>">My Account</a></li>
+                                    <li><a href="<?php echo URLROOT.'/front/pages/checkout' ?>">Checkout</a></li>
+                                    <li><a href="<?php echo URLROOT.'/front/pages/login' ?>">Sign in</a></li>
                                 </ul>
                             </div>
                             <!-- Header Top Right End -->
