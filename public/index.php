@@ -1,4 +1,5 @@
 <?php
+phpinfp();
 
 require_once '../app/boostrap.php';
 
